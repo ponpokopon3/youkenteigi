@@ -1,0 +1,14 @@
+langchain-core
+langchain-openai
+langchain-community
+GitPython
+langchain-chroma
+tavily-python 
+openai
+pydantic
+streamlit>=1.36.0
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.7
+langgraph>=0.2.0
